@@ -8,8 +8,8 @@
 
 
 *A list of python packages used:*<br>
-- glob
-- os
-- nilearn
-- nibabel
-- matplotlib
+- '''glob:'''
+-  '''os '''
+-  '''nilearn '''
+-  '''nibabel '''
+-  '''matplotlib '''
