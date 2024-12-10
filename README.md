@@ -9,7 +9,7 @@
 *Data used:*
 I used the openly available fMRI data on Neurosynht (https://neurosynth.org/). File with high resolution MRI anatomical data as well as file with functional data (statistical map) were used. The consept of *reading* was selected for investigation. Both files were downloaded from the Neurosynth webpage and stored in this project reposiroty.
 
-*Besides the files from the Neurosynth webpage, you can find a file with my code called **home_assignment.ipynb** and a screenshot of my comments to another student's similar repository.
+*Files in this reposiroty:* Besides the files from the Neurosynth webpage, you can find a file with my code called **home_assignment.ipynb** and a screenshot of my comments to another student's similar repository.
 
 *A list of python packages used:*<br>
 - glob
